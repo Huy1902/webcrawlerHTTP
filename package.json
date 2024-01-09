@@ -1,0 +1,19 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "Project for the learn HTTP",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Huy1902/webcrawlerHTTP.git)"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
